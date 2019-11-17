@@ -1,0 +1,60 @@
+Engine ID       Engine Name                                           
+--------------- ------------------------------------------------------
+scumm           SCUMM [all games]
+access          Access
+adl             ADL
+agi             AGI preAGI + v2 + v3
+agos            AGOS
+bbvs            MTV's Beavis and Butt-head in Virtual Stupidity
+bladerunner     Blade Runner
+cge             CGE
+cge2            CGE2
+cine            Cinematique evo 1
+composer        Magic Composer
+cruise          Cinematique evo 2
+cryomni3d       Cryo Omni3D
+draci           Draci Historie
+drascula        Drascula: The Vampire Strikes Back
+dreamweb        DreamWeb
+fullpipe        Full Pipe
+gnap            Gnap
+gob             Gob
+groovie         Groovie
+hdb             Hyperspace Delivery Boy!
+hopkins         Hopkins FBI
+hugo            Hugo
+illusions       Illusions
+kyra            Kyra
+lab             Labyrinth of Time
+lure            Lure of the Temptress
+made            MADE
+mads            MADS
+mohawk          Mohawk
+mortevielle     Mortville Manor
+neverhood       The Neverhood Chronicles
+parallaction    Parallaction
+pegasus         The Journeyman Project: Pegasus Prime
+plumbers        Plumbers Don't Wear Ties
+prince          The Prince and the Coward
+queen           Flight of the Amazon Queen
+saga            SAGA [ITE, IHNM]
+sci             SCI [all games]
+sherlock        Sherlock
+sky             Beneath a Steel Sky
+supernova       Mission Supernova
+sword1          Broken Sword: The Shadow of the Templars
+sword2          Broken Sword II: The Smoking Mirror
+sword25         Broken Sword 2.5
+teenagent       TeenAgent
+tinsel          Tinsel
+titanic         Starship Titanic
+toltecs         3 Skulls of the Toltecs
+tony            Tony Tough and the Night of Roasted Moths
+toon            Toonstruck
+touche          Touche: The Adventures of the Fifth Musketeer
+tsage           TsAGE
+tucker          Bud Tucker in Double Trouble
+voyeur          Voyeur
+wintermute      Wintermute
+xeen            Xeen
+zvision         Z-Vision

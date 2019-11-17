@@ -1,0 +1,2 @@
+ScummVM 2.2.0git (Nov 17 2019 12:21:33)
+Features compiled in: Vorbis FLAC MP3 RGB zLib FluidSynth Theora FreeType2 JPEG PNG libcurl SDL_net 
